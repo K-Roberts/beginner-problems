@@ -1,4 +1,9 @@
 '''
+Created on Nov 12, 2018
+
+@author: kroberts
+
+
 PROBLEM: GUESS THE NUMBER
 
 The program will first randomly generate a number unknown 
@@ -44,8 +49,4 @@ def GuessNumber():
 GuessNumber()    
 
 
-'''
-Created on Nov 12, 2018
 
-@author: kroberts
-'''
